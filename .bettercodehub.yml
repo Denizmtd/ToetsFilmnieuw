@@ -1,0 +1,7 @@
+exclude:
+- /src/main/resources/Public/vendor/.*
+component_depth: 1
+languages:
+- java
+- javascript
+- script
